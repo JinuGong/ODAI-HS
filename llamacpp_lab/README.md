@@ -118,4 +118,4 @@ llama\llama-cli.exe -m models\Qwen3-4B-Q4_K_M.gguf -ngl 99 -p "MQTT QoS를 설�
 | 측정값이 매번 크게 다름 | 노트북 전원 · 발열 · 백그라운드 프로그램, `--reps` 늘리기 |
 | 한글이 깨짐 (Windows) | Windows Terminal 사용, 또는 `chcp 65001` 실행 후 다시 시도 |
 
-> llama.cpp는 업데이트가 잦아 옵션 이름이 바뀔 수 있습니다. 보고서에는 `python lab.py check`에 나온 **build 번호와 commit**을 적습니다.
+> llama.cpp는 업데이트가 잦아 옵션 이름이 바뀔 수 있습니다.
