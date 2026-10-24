@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Models (too large for git)
+*.gguf
+*.safetensors
+*.bin
+*.onnx
+*.engine
+models/*
+!models/.keep
+
+# llama.cpp binaries
+llama/*
+!llama/.keep
+
+# Measurement outputs
+results/*
+!results/.keep
+
+# Secrets
+.env
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
