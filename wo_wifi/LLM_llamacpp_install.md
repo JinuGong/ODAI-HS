@@ -16,7 +16,7 @@ llama.cpp는 교수자가 Jetson용으로 미리 빌드해 두었다. 모든 조
 
 ### 1.1 llama.cpp 실행 파일
 
-`llama-bin-jp6.tar.gz`를 받는다.
+`llama-bin-jp6.tar.gz`를 받는다. (e-class)
 
 ### 1.2 모델
 
